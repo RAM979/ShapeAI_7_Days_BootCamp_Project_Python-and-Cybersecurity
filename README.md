@@ -1,5 +1,5 @@
-# ShapeAI_7_Days_BootCamp_Project_Python-and-Cybersecurity
-# SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
+
+# SHAPEAI PYTHON AND CYBERSECURITY BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Harsh Akshit (Student Lead At Google). I got to
